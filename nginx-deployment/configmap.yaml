@@ -7,7 +7,7 @@ data:
     <!DOCTYPE html>
     <html>
       <head>
-        <title>Welcome</title>
+        <title>Argo-Web-Test</title>
         <!-- Include Bootstrap CSS from CDN -->
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet">
       </head>
@@ -15,7 +15,7 @@ data:
         <div class="container">
           <div class="jumbotron mt-5">
             <h1 class="display-4">BTC</h1>
-            <p class="lead">Alper TÜRKEŞ</p>
+            <p class="lead">Alper TURKES</p>
           </div>
         </div>
       </body>
